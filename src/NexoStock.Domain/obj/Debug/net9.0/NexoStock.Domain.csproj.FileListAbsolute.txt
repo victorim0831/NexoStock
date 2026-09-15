@@ -1,0 +1,11 @@
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\bin\Debug\net9.0\NexoStock.Domain.deps.json
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\bin\Debug\net9.0\NexoStock.Domain.dll
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\bin\Debug\net9.0\NexoStock.Domain.pdb
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\NexoStock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\NexoStock.Domain.AssemblyInfoInputs.cache
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\NexoStock.Domain.AssemblyInfo.cs
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\NexoStock.Domain.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\NexoStock.Domain.dll
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\refint\NexoStock.Domain.dll
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\NexoStock.Domain.pdb
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\NexoStock.Domain\obj\Debug\net9.0\ref\NexoStock.Domain.dll

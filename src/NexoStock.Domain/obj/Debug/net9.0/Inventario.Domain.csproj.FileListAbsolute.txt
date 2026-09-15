@@ -1,0 +1,11 @@
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\bin\Debug\net9.0\Inventario.Domain.deps.json
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\bin\Debug\net9.0\Inventario.Domain.dll
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\bin\Debug\net9.0\Inventario.Domain.pdb
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\Inventario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\Inventario.Domain.AssemblyInfoInputs.cache
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\Inventario.Domain.AssemblyInfo.cs
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\Inventario.Domain.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\Inventario.Domain.dll
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\refint\Inventario.Domain.dll
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\Inventario.Domain.pdb
+C:\INGENIERIA DE DATOS Y SOFWARE\SistemaInventariosClaude\src\Inventario.Domain\obj\Debug\net9.0\ref\Inventario.Domain.dll
